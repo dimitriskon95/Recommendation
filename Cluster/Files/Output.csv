@@ -1,0 +1,30 @@
+<Euclidean Clustering>
+CLUSTER-0 {size: 213, medoid: item58}
+CLUSTER-1 {size: 218, medoid: item5}
+CLUSTER-2 {size: 303, medoid: item534}
+CLUSTER-3 {size: 141, medoid: item612}
+CLUSTER-4 {size: 120, medoid: item671}
+clustering_time: 13.57 //in seconds
+Silhouette: [0.405725,0.752987,0.348441,0.519823,0.221978,0.449791]
+
+<u1>	<item772>	<item833>	<item522>	<item621>	<item618>	
+<u2>	<item496>	<item245>	<item935>	<item339>	<item752>	
+<u3>	<item146>	<item523>	<item843>	<item463>	<item405>	
+<u4>	<item1>	<item2>	<item3>	<item4>	<item5>	
+<u5>	<item1>	<item2>	<item3>	<item4>	<item5>	
+<u6>	<item716>	<item619>	<item673>	<item6>	<item118>	
+<u7>	<item1>	<item2>	<item3>	<item4>	<item5>	
+<u8>	<item161>	<item33>	<item376>	<item950>	<item35>	
+<u9>	<item318>	<item576>	<item262>	<item213>	<item574>	
+<u10>	<item656>	<item86>	<item342>	<item767>	<item269>	
+<u11>	<item576>	<item93>	<item58>	<item431>	<item597>	
+<u12>	<item153>	<item801>	<item436>	<item62>	<item202>	
+<u13>	<item245>	<item589>	<item843>	<item679>	<item854>	
+<u14>	<item694>	<item39>	<item90>	<item117>	<item135>	
+<u15>	<item694>	<item3>	<item122>	<item613>	<item743>	
+<u16>	<item597>	<item93>	<item747>	<item197>	<item230>	
+<u17>	<item767>	<item243>	<item353>	<item763>	<item896>	
+<u18>	<item395>	<item511>	<item320>	<item729>	<item805>	
+<u19>	<item574>	<item1>	<item576>	<item318>	<item538>	
+<u20>	<item899>	<item3>	<item127>	<item270>	<item330>	
+Execution Time: 35.948 miliseconds
